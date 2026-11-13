@@ -1,0 +1,11 @@
+# 编译生成的 Windows 可执行文件
+game.exe
+
+# 编译生成的 Linux/Mac 可执行文件
+game
+
+# 编译产生的中间对象文件
+*.o
+
+# VS Code 的本地配置文件夹
+.vscode/
